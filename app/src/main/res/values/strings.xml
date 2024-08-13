@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="athens_title">The School of Athens</string>
+    <string name="athens_date">1509 to 1511</string>
+    <string name="athens_artist">Raphael</string>
+    <string name="wanderer_title">Wanderer above the Sea of Fog</string>
+    <string name="wanderer_date">circa 1818</string>
+    <string name="wanderer_artist">Caspar David Friedrich</string>
+    <string name="hay_title">The Hay Wain</string>
+    <string name="hay_date">1821</string>
+    <string name="hay_artist">John Constable</string>
+    <string name="starry_title">The Starry Night</string>
+    <string name="starry_date">1889</string>
+    <string name="starry_artist">Vincent Van Gogh</string>
+    <string name="woman_title">Woman With A Parasol - Madame Monet And Her Son</string>
+    <string name="woman_date">1875</string>
+    <string name="woman_artist">Claude Monet</string>
+</resources>
