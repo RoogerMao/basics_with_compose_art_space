@@ -197,7 +197,8 @@ fun ArtDisplay(displayNumber: Int) {
                 fontSize = 42.sp,
                 lineHeight = 48.sp,
                 fontWeight = FontWeight.Light,
-                textAlign = TextAlign.Center
+                textAlign = TextAlign.Center,
+                modifier = Modifier.padding(8.dp).fillMaxWidth()
             )
             Text(
                 text = buildAnnotatedString {
@@ -214,9 +215,7 @@ fun ArtDisplay(displayNumber: Int) {
                 lineHeight = 28.sp,
                 fontWeight = FontWeight.Light,
                 textAlign = TextAlign.Center,
-                modifier = Modifier
-                    .padding(16.dp)
-                    .fillMaxWidth()
+                modifier = Modifier.padding(8.dp).fillMaxWidth()
             )
         }
     }
